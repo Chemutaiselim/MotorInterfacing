@@ -23,3 +23,4 @@ int ADC_Read(char channel) { /* ADC Read function */
 	_delay_ms(1); /* Wait a little bit */ 
 	return ADCW; /* Return ADC word */ 
 	}
+	
